@@ -32,7 +32,7 @@ container{
 .link-primary{
     background-color: var(--primary-color);
     border-radius: 0.5rem;
-    color: black
+    color: white;
 }
 .link-secondary{
     color: var(--primary-color);
@@ -111,6 +111,14 @@ container{
     color:white;
     border-top-right-radius: 1rem;
 }
+.footer .footer-header{
+    font-weight: bold;
+    font-size: large;
+
+}
 .footer .link {
+    color: white;
+}
+.social-links{
     color: white;
 }
