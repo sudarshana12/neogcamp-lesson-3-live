@@ -126,3 +126,9 @@ container{
     color: white;
     text-decoration: none;
 }
+.project-container{
+    margin-top: 5rem;
+}
+.end-div{
+    margin: 5rem 0rem;
+}
